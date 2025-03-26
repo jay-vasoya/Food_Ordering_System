@@ -34,7 +34,7 @@ This system integrates **MySQL** as the backend database and uses **JDBC (Java D
 - **Java** (Core Logic)  
 - **MySQL** (Database)  
 - **JDBC** (Database Connection)  
-- **Data Structures:** Stack, Doubly Linked List  
+- **Data Structures:** Doubly Linked List  
 
 
 📂 Project Structure
